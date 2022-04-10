@@ -1,4 +1,4 @@
-// Copyright 2022 Amirhossein Jofreh. All rights reserved.
+// Copyright 2020 Michael Walker and Copyright 2022 Amirhossein Jofreh. All rights reserved.
 // Licensed under the MIT License. See LICENSE in the project root
 // for license information.
 
